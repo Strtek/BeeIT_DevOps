@@ -1,1 +1,2 @@
 Přidám další text, ten původní zmizí, nebo zůstane?
+Příkazem echo z cmd se mi původní text přepíše. Pokud chci soubor editovat se zachováním původního obsahu, musím jej otevřít v nano, tak jako teď.
